@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: 1arp/create-a-file-action@0.2
+      - uses: fertrig/create-file-action@1.0.2
         with:
-          path: 'content'
+          path: './content'
           file: 'foo.bar'
           content: |
             Hello
