@@ -9,11 +9,7 @@ jobs:
     name: Create A File
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: fertrig/create-file-action@1.0.2
-        with:
-          path: 'content'
-          file: 'foo.bar'
-          content: |
-            Hello
-            World
+    - uses: "finnp/create-file-action@master"
+      env:
+        FILE_NAME: "content/fileName.txt"
+        FILE_DATA: "file content"
