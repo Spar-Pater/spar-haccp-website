@@ -13,3 +13,7 @@ jobs:
       env:
         FILE_NAME: "content/fileName.txt"
         FILE_DATA: "file content"
+  write:
+    - uses: "actions/bin/sh@master"
+      needs: '["createFile"]'
+      args: '["cat content/fileName.txt"]'
