@@ -1,49 +1,45 @@
-sitename: "Spar Pater"
-baseURL: "/"
-languageCode: nl-nl
-title: "HACCP Spar Pater"
-author: Dennis Pater
-theme: hugo-flex
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-params:
-  color: rgb(0 122 51)  # Any color in CSS syntax
-  width: 64rem          # Any length in CSS syntax
-  footer: >-            # HTML spaces (&#32;) are needed before HTML elements
-    Except where otherwise noted, content on this site is licensed under a &#32;
-    <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative
-    Commons Attribution 4.0 International License</a>.
-  rss: To subscribe to this RSS feed, copy its address and paste it into your
-    favorite feed reader.
-  summaries: false      # Set to true to show summaries of posts on homepage
-  divider: \a0          # Set to false to remove divider below posts on homepage
-  schema: false         # Set to true to add Schema.org metadata
-  opengraph: false      # Set to true to add Open Graph metadata
-  twittercards: false   # Set to true to add Twitter Cards metadata
-  utterances:
-    repo:               # Set to Utterances repo URL to add Utterances comments
-    issueterm: pathname
-    theme: github-light
-  netlify:
-    honeypot: false     # Set to true to add honeypot field in contact form
-    recaptcha: false    # Set to true to add recaptcha challenge in contact form
-  # css:                # Uncomment to add custom CSS from the assets directory
-  #   - css/foo.css
-  #   - bar.css
-  # js:                 # Uncomment to add custom JS from the assets directory
-  #   - js/foo.js
-  #   - bar.js
+name = "Spar Pater"
+license = "MIT"
+licenselink = "https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE"
+description = "HACCP website Spar Pater"
+homepage = "/"
+tags = [
+  "responsive",
+  "simple",
+  "clean",
+  "light",
+  "dark",
+  "blog",
+  "minimalist",
+  "highlight.js",
+  "search"
+]
+features = [
+  "responsive",
+  "single-column",
+  "blog",
+  "cover-image",
+  "table-of-contents",
+  "opengraph",
+  "highlight.js",
+  "favicon",
+  "archive",
+  "share-icons",
+  "cover",
+  "multilingual",
+  "social-icons",
+  "minified-assets",
+  "theme-toggle",
+  "menu-location-indicator",
+  "scroll-to-top",
+  "search"
+]
+min_version = "0.97.1"
 
-menu:
-  nav:
-  - name: HACCP
-    url: haccp/
-    weight: 1
-  - name: Certificaten
-    url: certificaten/
-    weight: 2
-  - name: Tags
-    url: tags/
-    weight: 3
-  - name: Categories
-    url: categories/
-    weight: 4
+[author]
+  name = "Dennis Pater"
+  homepage = "https://haccp.sparpater.nl/"
+
