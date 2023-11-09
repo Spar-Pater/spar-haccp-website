@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 45 jaar 2023'
-date: 2023-11-08
+date: 2023-11-09
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
