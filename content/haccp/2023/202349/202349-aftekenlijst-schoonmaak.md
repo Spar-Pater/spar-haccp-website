@@ -1,6 +1,6 @@
 ---
 title: 'Aftekenlijst schoonmaken in week 49 jaar 2023'
-date: 2023-12-09
+date: 2023-12-10
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
@@ -20,6 +20,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | MvG | | | |
 | vrijdag | MvG | | | |
 | zaterdag | GR | | | |
+| zondag | EH | | | |
 
 ## AGF
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -30,6 +31,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | MvG | | | |
 | vrijdag | MvG | | | |
 | zaterdag | GR | | | |
+| zondag | EH | | | |
 
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -40,6 +42,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | YP | | | |
 | vrijdag | YP | | | |
 | zaterdag | YP | | | |
+| zondag | EH | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -50,6 +53,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | MvG | | | |
 | vrijdag | MvG | | | |
 | zaterdag | GR | | | |
+| zondag | EH | | | |
 
 ## Toilet
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -60,6 +64,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | MvG | | | |
 | vrijdag | MvG | | | |
 | zaterdag | GR | | | |
+| zondag | EH | | | |
 
 ## Sappers
 | Dag | 10:00 | 13:00 | 16:00 | Einde dag | Bijzonderheden |
@@ -70,6 +75,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | BK | | | |
 | vrijdag | BK | | | |
 | zaterdag | BK | | | |
+| zondag | BK | | | |
 
 ## Opmerkingen
 
