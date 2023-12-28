@@ -1,6 +1,6 @@
 ---
 title: 'Aftekenlijst schoonmaken in week 52 jaar 2023'
-date: 2023-12-27
+date: 2023-12-28
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
@@ -17,6 +17,7 @@ De schoonmaak taken kun je vinden op:
 | maandag | BK | | | |
 | dinsdag | BvD | | | |
 | woensdag | BK | | | |
+| donderdag | MvG | | | |
 
 ## AGF
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -24,6 +25,7 @@ De schoonmaak taken kun je vinden op:
 | maandag | BK | | | |
 | dinsdag | BvD | | | |
 | woensdag | BK | | | |
+| donderdag | MvG | | | |
 
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -31,6 +33,7 @@ De schoonmaak taken kun je vinden op:
 | maandag | YP | | | |
 | dinsdag | YP | | | |
 | woensdag | YP | | | |
+| donderdag | YP | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -38,6 +41,7 @@ De schoonmaak taken kun je vinden op:
 | maandag | BK | | | |
 | dinsdag | BvD | | | |
 | woensdag | BK | | | |
+| donderdag | MvG | | | |
 
 ## Toilet
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -45,6 +49,7 @@ De schoonmaak taken kun je vinden op:
 | maandag | BK | | | |
 | dinsdag | BvD | | | |
 | woensdag | BK | | | |
+| donderdag | MvG | | | |
 
 ## Sappers
 | Dag | 10:00 | 13:00 | 16:00 | Einde dag | Bijzonderheden |
@@ -52,6 +57,7 @@ De schoonmaak taken kun je vinden op:
 | maandag | BK | | | |
 | dinsdag | BK | | | |
 | woensdag | BK | | | |
+| donderdag | BK | | | |
 
 ## Opmerkingen
 
