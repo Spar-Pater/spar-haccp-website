@@ -1,6 +1,6 @@
 ---
 title: 'Aftekenlijst schoonmaken in week 01 jaar 2024'
-date: 2024-01-01
+date: 2024-01-02
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
@@ -15,31 +15,37 @@ De schoonmaak taken kun je vinden op:
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
 
 ## AGF
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
 
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | YP | | | |
+| dinsdag | YP | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
 
 ## Toilet
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
 
 ## Sappers
 | Dag | 10:00 | 13:00 | 16:00 | Einde dag | Bijzonderheden |
 |:---|:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BK | | | |
 
 ## Opmerkingen
 
