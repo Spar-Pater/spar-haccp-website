@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 01 jaar 2024'
-date: 2024-01-03
+date: 2024-01-04
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
