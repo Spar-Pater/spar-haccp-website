@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 01 jaar 2024'
-date: 2024-01-04
+date: 2024-01-05
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
@@ -17,6 +17,11 @@ tags:
 | woensdag | Spar-Diepvries | -20,1°C | &check; | &check; | | WPater |
 | woensdag | Spar-KW | 5,0°C | &check; | &check; | | WPater |
 | woensdag | Spar-Vers | 1,2°C | &check; | &check; | | WPater |
+| vrijdag | Drents-eitje | 3,6°C | &check; | &check; | | WPater |
+| vrijdag | Huls | 3,0°C | &check; | &check; | | WPater |
+| vrijdag | Spar-Diepvries | -20,8°C | &check; | &check; | | WPater |
+| vrijdag | Spar-KW | 4,1°C | &check; | &check; | | WPater |
+| vrijdag | Spar-Vers | 1,2°C | &check; | &check; | | WPater |
 
 ## Opmerkingen
 
