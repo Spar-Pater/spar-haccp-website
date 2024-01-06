@@ -126,11 +126,15 @@ menu:
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 10
+      weight: 20
+    - identifier: archief
+      name: archief
+      url: /archives/
+      weight: 11
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 21
     - identifier: certificaten
       name: certificaten
       url: /certificaten/
