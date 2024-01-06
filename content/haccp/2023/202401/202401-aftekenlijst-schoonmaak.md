@@ -1,11 +1,11 @@
 ---
-title: 'Aftekenlijst schoonmaken in week 21 jaar 2022'
-date: 2022-05-29
+title: 'Aftekenlijst schoonmaken in week 52 jaar 2023'
+date: 2024-01-05
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
 tags:
-    - '2022'
+    - '2023'
     - 'schoonmaaklijst'
 ---
 De schoonmaak taken kun je vinden op:  
@@ -14,68 +14,68 @@ De schoonmaak taken kun je vinden op:
 ## Algemeen 
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
+| zaterdag | BK | | | |
+| zondag | BvD | | | |
 | maandag | BK | | | |
-| dinsdag | BvD | | | |
-| woensdag | BK | | | |
-| donderdag | MvG | | | |
-| vrijdag | MvG | | | |
-| zaterdag | GR | | | |
-| zondag | EH | | | |
+| dinsdag | MvG | | | |
+| woensdag | MvG | | | |
+| donderdag | GR | | | |
+| vrijdag | EH | | | |
 
 ## AGF
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
+| zaterdag | BK | | | |
+| zondag | BvD | | | |
 | maandag | BK | | | |
-| dinsdag | BvD | | | |
-| woensdag | BK | | | |
-| donderdag | MvG | | | |
-| vrijdag | MvG | | | |
-| zaterdag | GR | | | |
-| zondag | EH | | | |
+| dinsdag | MvG | | | |
+| woensdag | MvG | | | |
+| donderdag | GR | | | |
+| vrijdag | EH | | | |
 
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
+| zaterdag | YP | | | |
+| zondag | YP | | | |
 | maandag | YP | | | |
 | dinsdag | YP | | | |
 | woensdag | YP | | | |
 | donderdag | YP | | | |
-| vrijdag | YP | | | |
-| zaterdag | YP | | | |
-| zondag | EH | | | |
+| vrijdag | EH | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
+| zaterdag | BK | | | |
+| zondag | BvD | | | |
 | maandag | BK | | | |
-| dinsdag | BvD | | | |
-| woensdag | BK | | | |
-| donderdag | MvG | | | |
-| vrijdag | MvG | | | |
-| zaterdag | GR | | | |
-| zondag | EH | | | |
+| dinsdag | MvG | | | |
+| woensdag | MvG | | | |
+| donderdag | GR | | | |
+| vrijdag | EH | | | |
 
 ## Toilet
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
+| zaterdag | BK | | | |
+| zondag | BvD | | | |
 | maandag | BK | | | |
-| dinsdag | BvD | | | |
-| woensdag | BK | | | |
-| donderdag | MvG | | | |
-| vrijdag | MvG | | | |
-| zaterdag | GR | | | |
-| zondag | EH | | | |
+| dinsdag | MvG | | | |
+| woensdag | MvG | | | |
+| donderdag | GR | | | |
+| vrijdag | EH | | | |
 
 ## Sappers
 | Dag | 10:00 | 13:00 | 16:00 | Einde dag | Bijzonderheden |
 |:---|:---|:---|:---|:---|:---|
+| zaterdag | BK | | | |
+| zondag | BK | | | |
 | maandag | BK | | | |
 | dinsdag | BK | | | |
 | woensdag | BK | | | |
 | donderdag | BK | | | |
 | vrijdag | BK | | | |
-| zaterdag | BK | | | |
-| zondag | BK | | | |
 
 ## Opmerkingen
 

@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van croissant week 01 jaar 2024'
-date: 2024-01-05
+date: 2024-01-06
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'

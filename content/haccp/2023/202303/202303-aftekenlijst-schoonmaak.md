@@ -20,7 +20,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | MvG | | | |
 | vrijdag | MvG | | | |
 | zaterdag | GR | | | |
-| zondag | FK | | | |
+| zondag | EH | | | |
 
 ## AGF
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -31,18 +31,18 @@ De schoonmaak taken kun je vinden op:
 | donderdag | MvG | | | |
 | vrijdag | MvG | | | |
 | zaterdag | GR | | | |
-| zondag | FK | | | |
+| zondag | EH | | | |
 
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
-| maandag | BK | | | |
-| dinsdag | BvD | | | |
-| woensdag | BK | | | |
-| donderdag | MvG | | | |
-| vrijdag | MvG | | | |
-| zaterdag | GR | | | |
-| zondag | FK | | | |
+| maandag | YP | | | |
+| dinsdag | YP | | | |
+| woensdag | YP | | | |
+| donderdag | YP | | | |
+| vrijdag | YP | | | |
+| zaterdag | YP | | | |
+| zondag | EH | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -53,7 +53,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | MvG | | | |
 | vrijdag | MvG | | | |
 | zaterdag | GR | | | |
-| zondag | FK | | | |
+| zondag | EH | | | |
 
 ## Toilet
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -64,7 +64,7 @@ De schoonmaak taken kun je vinden op:
 | donderdag | MvG | | | |
 | vrijdag | MvG | | | |
 | zaterdag | GR | | | |
-| zondag | FK | | | |
+| zondag | EH | | | |
 
 ## Sappers
 | Dag | 10:00 | 13:00 | 16:00 | Einde dag | Bijzonderheden |
