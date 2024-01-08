@@ -40,12 +40,12 @@ jobs:
           bash ./.github/scripts/schoonmaak.sh 1
           git add .
           git commit -am "schoonmaaklijst toegevoegd."
-      - name: Create temparatuurlijst
+      - name: Create temparatuurslijst
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/temparatuurlijst.sh 1
+          bash ./.github/scripts/temparatuurslijst.sh 1
           git add .
-          git commit -am "temparatuurlijst toegevoegd."
+          git commit -am "temparatuurslijst toegevoegd."
       - name: Create warmstepuntbepaling
         if: github.event.schedule != '0 17 * * *'
         run: |
