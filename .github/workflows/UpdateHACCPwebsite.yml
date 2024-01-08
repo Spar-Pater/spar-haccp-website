@@ -56,7 +56,7 @@ jobs:
           git commit -am "Automatic add/change file" -m "warmstepuntbepaling toegevoegd."
       - name: Update main
         run: |
-          echo date %s >> README.md
+          echo $(date %s) >> README.md
           git add .
           git commit -am "Automatic update README file"
           git checkout main
