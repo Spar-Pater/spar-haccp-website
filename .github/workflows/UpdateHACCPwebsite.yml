@@ -1,0 +1,53 @@
+name: Ontvangst goederen
+on:
+  schedule:
+  - cron: "0 17 * * *"
+  workflow_dispatch:
+
+jobs:
+  createFiles:
+    name: Create all files.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: setup git config
+        run: |
+          git config --global user.name 'Spar Pater'
+          git config --global user.email 'Pater2008@users.noreply.github.com'
+          git checkout -b nieuwe-documenten
+      - name: Create kalibratie thermometer
+        run: |
+          bash ./.github/scripts/kalibratie-thermometer.sh 1
+          git add .
+          git commit -am "kalibratie thermometer toegevoegd."
+      - name: Create kern temperatuur
+        run: |
+          bash ./.github/scripts/kern-temp.sh 1
+          git add .
+          git commit -am "kern temperatuur toegevoegd."
+      - name: Create ontvangst goederen
+        run: |
+          bash ./.github/scripts/ontvangst-goederen.sh 1
+          git add .
+          git commit -am "ontvangst goederen toegevoegd."
+      - name: Create schoonmaaklijst
+        run: |
+          bash ./.github/scripts/schoonmaak.sh 1
+          git add .
+          git commit -am "schoonmaaklijst toegevoegd."
+      - name: Create temperatuurlijst
+        run: |
+          bash ./.github/scripts/temperatuurlijst.sh 1
+          git add .
+          git commit -am "temperatuurlijst toegevoegd."
+      - name: Create warmstepuntbepaling
+        run: |
+          bash ./.github/scripts/warmstepuntbepaling.sh 1
+          git add .
+          git commit -am "warmstepuntbepaling toegevoegd."
+      - name: Update main
+        run: |
+          git checkout main
+          git merge nieuwe-documenten
+          git branch -d nieuwe-documenten
+          git push origin main
