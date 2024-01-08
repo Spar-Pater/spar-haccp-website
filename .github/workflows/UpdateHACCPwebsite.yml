@@ -2,6 +2,7 @@ name: Ontvangst goederen
 on:
   schedule:
   - cron: "0 17 * * *"
+  - cron: "0 16 5-12 2,8 1"
   workflow_dispatch:
 
 jobs:
@@ -16,31 +17,37 @@ jobs:
           git config --global user.email 'Pater2008@users.noreply.github.com'
           git checkout -b nieuwe-documenten
       - name: Create kalibratie thermometer
+        if: github.event.schedule != '0 17 * * *'
         run: |
           bash ./.github/scripts/kalibratie-thermometer.sh 1
           git add .
           git commit -am "kalibratie thermometer toegevoegd."
       - name: Create kern temperatuur
+        if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/kern-temp.sh 1
           git add .
           git commit -am "kern temperatuur toegevoegd."
       - name: Create ontvangst goederen
+        if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/ontvangst-goederen.sh 1
           git add .
           git commit -am "ontvangst goederen toegevoegd."
       - name: Create schoonmaaklijst
+        if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/schoonmaak.sh 1
           git add .
           git commit -am "schoonmaaklijst toegevoegd."
       - name: Create temparatuurlijst
+        if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/temparatuurlijst.sh 1
           git add .
           git commit -am "temparatuurlijst toegevoegd."
       - name: Create warmstepuntbepaling
+        if: github.event.schedule != '0 17 * * *'
         run: |
           bash ./.github/scripts/warmstepuntbepaling.sh 1
           git add .
