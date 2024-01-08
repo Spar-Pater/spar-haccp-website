@@ -23,39 +23,42 @@ jobs:
         run: |
           bash ./.github/scripts/kalibratie-thermometer.sh
           git add .
-          git commit -am "kalibratie thermometer toegevoegd."
+          git commit -am "Automatic add/change file" -m "kalibratie thermometer toegevoegd."
       - name: Create kern temperatuur
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/kern-temp.sh
           git add .
-          git commit -am "kern temperatuur toegevoegd."
+          git commit -am "Automatic add/change file" -m "kern temperatuur toegevoegd."
       - name: Create ontvangst goederen
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/ontvangst-goederen.sh
           git add .
-          git commit -am "ontvangst goederen toegevoegd."
+          git commit -am "Automatic add/change file" -m "ontvangst goederen toegevoegd."
       - name: Create schoonmaaklijst
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/schoonmaak.sh
           git add .
-          git commit -am "schoonmaaklijst toegevoegd."
+          git commit -am "Automatic add/change file" -m "schoonmaaklijst toegevoegd."
       - name: Create temparatuurslijst
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/temparatuurslijst.sh
           git add .
-          git commit -am "temparatuurslijst toegevoegd."
+          git commit -am "Automatic add/change file" -m "temparatuurslijst toegevoegd."
       - name: Create warmstepuntbepaling
         if: github.event.schedule != '0 17 * * *'
         run: |
           bash ./.github/scripts/warmstepuntbepaling.sh
           git add .
-          git commit -am "warmstepuntbepaling toegevoegd."
+          git commit -am "Automatic add/change file" -m "warmstepuntbepaling toegevoegd."
       - name: Update main
         run: |
+          echo date %s >> README.md
+          git add .
+          git commit -am "Automatic update README file"
           git checkout main
           git merge nieuwe-documenten
           git branch -d nieuwe-documenten
