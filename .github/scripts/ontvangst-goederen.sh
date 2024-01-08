@@ -79,6 +79,7 @@ cat > "$path${set_yw[0]}-ontvangst.md" <<-EOF
 ---
 title: 'Ontvangst goederen ${set_date[4]} jaar ${set_date[1]}'
 date: $(date -d "$now" "+%F")
+author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'

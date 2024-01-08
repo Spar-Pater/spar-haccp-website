@@ -99,6 +99,7 @@ cat > "$path${set_yw[0]}-temp.md" <<-EOF
 ---
 title: 'Temperatuurlijst van week ${set_date[4]} jaar ${set_date[1]}'
 date: $(date -d "$now" "+%F")
+author: Spar Pater
 description: 'Themperatuur logboek'
 categories:
     - 'HACCP'

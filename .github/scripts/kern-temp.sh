@@ -131,6 +131,7 @@ else
 ---
 title: 'Validatie kern temperatuur van ${brood[${set_date[4]}]} week ${set_date[4]} jaar ${set_date[1]}'
 date: $(date -d "$now" "+%F")
+author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'

@@ -44,6 +44,7 @@ cat > "$path${set_yw[0]}-kalibratie.md" <<-EOF
 ---
 title: 'Kalibratie thermometer op $(date -d "$now" "+%d-%m-%Y")'
 date: $(date -d "$now" "+%F")
+author: Spar Pater
 description: 'Kalibratie logboek'
 categories:
     - 'HACCP'

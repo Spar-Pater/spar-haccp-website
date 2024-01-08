@@ -92,6 +92,7 @@ cat > "$path${set_yw[0]}-wpb.md" <<-EOF
 ---
 title: 'Warmste punt bepaald in week ${set_date[4]} jaar ${set_date[1]}'
 date: $(date -d $now "+%F")
+author: Spar Pater
 description: 'Themperatuur logboek'
 categories:
     - 'HACCP'
