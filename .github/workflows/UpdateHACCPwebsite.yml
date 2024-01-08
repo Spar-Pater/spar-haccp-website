@@ -35,11 +35,11 @@ jobs:
           bash ./.github/scripts/schoonmaak.sh 1
           git add .
           git commit -am "schoonmaaklijst toegevoegd."
-      - name: Create temperatuurlijst
+      - name: Create temparatuurlijst
         run: |
-          bash ./.github/scripts/temperatuurlijst.sh 1
+          bash ./.github/scripts/temparatuurlijst.sh 1
           git add .
-          git commit -am "temperatuurlijst toegevoegd."
+          git commit -am "temparatuurlijst toegevoegd."
       - name: Create warmstepuntbepaling
         run: |
           bash ./.github/scripts/warmstepuntbepaling.sh 1
