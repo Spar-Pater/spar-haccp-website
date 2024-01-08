@@ -19,37 +19,37 @@ jobs:
       - name: Create kalibratie thermometer
         if: github.event.schedule != '0 17 * * *'
         run: |
-          bash ./.github/scripts/kalibratie-thermometer.sh 1
+          bash ./.github/scripts/kalibratie-thermometer.sh
           git add .
           git commit -am "kalibratie thermometer toegevoegd."
       - name: Create kern temperatuur
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/kern-temp.sh 1
+          bash ./.github/scripts/kern-temp.sh
           git add .
           git commit -am "kern temperatuur toegevoegd."
       - name: Create ontvangst goederen
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/ontvangst-goederen.sh 1
+          bash ./.github/scripts/ontvangst-goederen.sh
           git add .
           git commit -am "ontvangst goederen toegevoegd."
       - name: Create schoonmaaklijst
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/schoonmaak.sh 1
+          bash ./.github/scripts/schoonmaak.sh
           git add .
           git commit -am "schoonmaaklijst toegevoegd."
       - name: Create temparatuurslijst
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/temparatuurslijst.sh 1
+          bash ./.github/scripts/temparatuurslijst.sh
           git add .
           git commit -am "temparatuurslijst toegevoegd."
       - name: Create warmstepuntbepaling
         if: github.event.schedule != '0 17 * * *'
         run: |
-          bash ./.github/scripts/warmstepuntbepaling.sh 1
+          bash ./.github/scripts/warmstepuntbepaling.sh
           git add .
           git commit -am "warmstepuntbepaling toegevoegd."
       - name: Update main
