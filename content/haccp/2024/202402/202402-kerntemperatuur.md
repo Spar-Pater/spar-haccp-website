@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van kaascroissant week 02 jaar 2024'
-date: 2024-01-11
+date: 2024-01-12
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
