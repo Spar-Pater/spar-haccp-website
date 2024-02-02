@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van croissant-framboos week 05 jaar 2024'
-date: 2024-02-01
+date: 2024-02-02
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
