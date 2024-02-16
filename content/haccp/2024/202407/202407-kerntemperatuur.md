@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van beemster-broodje week 07 jaar 2024'
-date: 2024-02-15
+date: 2024-02-16
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
