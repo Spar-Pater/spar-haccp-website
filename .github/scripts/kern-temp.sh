@@ -127,7 +127,7 @@ then
 else
 	path="../spar-haccp-website/content/haccp/${set_date[1]}/${set_yw[0]}/"
 	mkdir -p $path
-	cat > "$path${set_yw[0]}-kerntemperatuur.md" <<-EOF
+	cat > "$path${set_yw[0]#0}-kerntemperatuur.md" <<-EOF
 ---
 title: 'Validatie kern temperatuur van ${brood[${set_date[4]}]} week ${set_date[4]} jaar ${set_date[1]}'
 date: $(date -d "$now" "+%F")
