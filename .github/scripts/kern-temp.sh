@@ -121,7 +121,7 @@ ret () {
 	fi
 }
 
-if [ -z ${brood[${set_date[4]}]} ]
+if [ -z ${brood[${set_date[4]#0}]} ]
 then
 	exit
 else
