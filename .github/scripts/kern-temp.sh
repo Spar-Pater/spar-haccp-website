@@ -110,7 +110,7 @@ temp_it () {
 }
 
 ret () {
-	if [ -z ${brood[${set_date[4]}]} ]
+	if [ -z ${brood[${set_date[4]#0}]} ]
 	then
 		exit
 	else
@@ -125,7 +125,7 @@ if [ -z ${brood[${set_date[4]#0}]} ]
 then
 	exit
 else
-	path="../spar-haccp-website/content/haccp/${set_date[1]#0}/${set_yw[0]}/"
+	path="../spar-haccp-website/content/haccp/${set_date[1]#0}/${set_yw[0]#0}/"
 	mkdir -p $path
 	cat > "$path${set_yw[0]#0}-kerntemperatuur.md" <<-EOF
 ---
@@ -140,9 +140,9 @@ tags:
     - 'Kern-temperatuur'
 ---
 
-## ${brood[${set_date[4]}]}
+## ${brood[${set_date[4]#0}]}
 
-Programma: ${afbak[${set_date[4]}]}
+Programma: ${afbak[${set_date[4]#0}]}
 Minimale temperatuur: 75°C
 
 | Baksessie | Datum | Visueel beoordeling | Temperatuur |
