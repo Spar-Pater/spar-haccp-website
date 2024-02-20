@@ -129,7 +129,7 @@ else
 	mkdir -p $path
 	cat > "$path${set_yw[0]#0}-kerntemperatuur.md" <<-EOF
 ---
-title: 'Validatie kern temperatuur van ${brood[${set_date[4]}]} week ${set_date[4]} jaar ${set_date[1]}'
+title: 'Validatie kern temperatuur van ${brood[${set_date[4]#0}]} week ${set_date[4]#0} jaar ${set_date[1]}'
 date: $(date -d "$now" "+%F")
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
