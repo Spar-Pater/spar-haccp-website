@@ -125,7 +125,7 @@ if [ -z ${brood[${set_date[4]#0}]} ]
 then
 	exit
 else
-	path="../spar-haccp-website/content/haccp/${set_date[1]}/${set_yw[0]}/"
+	path="../spar-haccp-website/content/haccp/${set_date[1]#0}/${set_yw[0]}/"
 	mkdir -p $path
 	cat > "$path${set_yw[0]#0}-kerntemperatuur.md" <<-EOF
 ---
