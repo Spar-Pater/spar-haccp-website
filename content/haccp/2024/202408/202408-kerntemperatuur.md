@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van frikandellenbroodje week 8 jaar 2024'
-date: 2024-02-22
+date: 2024-02-23
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
