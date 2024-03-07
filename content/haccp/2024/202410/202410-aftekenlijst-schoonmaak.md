@@ -1,6 +1,6 @@
 ---
 title: 'Aftekenlijst schoonmaken in week 10 jaar 2024'
-date: 2024-03-06
+date: 2024-03-07
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
@@ -18,6 +18,7 @@ De schoonmaak taken kun je vinden op:
 | Monday | BK | | | |
 | Tuesday | BvD | | | |
 | Wednesday | BK | | | |
+| Thursday | MvG | | | |
 
 ## AGF
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -25,6 +26,7 @@ De schoonmaak taken kun je vinden op:
 | Monday | BK | | | |
 | Tuesday | BvD | | | |
 | Wednesday | BK | | | |
+| Thursday | MvG | | | |
 
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -32,6 +34,7 @@ De schoonmaak taken kun je vinden op:
 | Monday | YP | | | |
 | Tuesday | YP | | | |
 | Wednesday | YP | | | |
+| Thursday | YP | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -39,6 +42,7 @@ De schoonmaak taken kun je vinden op:
 | Monday | BK | | | |
 | Tuesday | BvD | | | |
 | Wednesday | BK | | | |
+| Thursday | MvG | | | |
 
 ## Toilet
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -46,6 +50,7 @@ De schoonmaak taken kun je vinden op:
 | Monday | BK | | | |
 | Tuesday | BvD | | | |
 | Wednesday | BK | | | |
+| Thursday | MvG | | | |
 
 ## Sappers
 | Dag | 10:00 | 13:00 | 16:00 | Einde dag | Bijzonderheden |
@@ -53,6 +58,7 @@ De schoonmaak taken kun je vinden op:
 | Monday | BK | | | |
 | Tuesday | BK | | | |
 | Wednesday | BK | | | |
+| Thursday | BK | | | |
 
 ## Opmerkingen
 
