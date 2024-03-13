@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van appelflap week 11 jaar 2024'
-date: 2024-03-12
+date: 2024-03-13
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
