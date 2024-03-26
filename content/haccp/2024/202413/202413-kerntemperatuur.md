@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van pecannotenkoek week 13 jaar 2024'
-date: 2024-03-25
+date: 2024-03-26
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
