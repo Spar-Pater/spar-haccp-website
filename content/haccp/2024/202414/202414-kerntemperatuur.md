@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van koffiebroodje week 14 jaar 2024'
-date: 2024-04-05
+date: 2024-04-06
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
