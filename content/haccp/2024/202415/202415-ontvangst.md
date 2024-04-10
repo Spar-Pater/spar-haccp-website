@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 15 jaar 2024'
-date: 2024-04-09
+date: 2024-04-10
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
@@ -15,6 +15,9 @@ tags:
 | Monday | Spar-KW | 4.2°C | &check; | &check; | | DPater |
 | Monday | Spar-Vers | 0.6°C | &check; | &check; | | DPater |
 | Tuesday | Weidenaar | 1.2°C | &check; | &check; | | DPater |
+| Wednesday | Spar-Diepvries | -20.1°C | &check; | &check; | | WPater |
+| Wednesday | Spar-KW | 4.2°C | &check; | &check; | | WPater |
+| Wednesday | Spar-Vers | 1.0°C | &check; | &check; | | WPater |
 
 ## Opmerkingen
 
