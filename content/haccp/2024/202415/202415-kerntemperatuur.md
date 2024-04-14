@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van kaiserbroodje week 15 jaar 2024'
-date: 2024-04-13
+date: 2024-04-14
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
