@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 19 jaar 2024'
-date: 2024-05-11
+date: 2024-05-12
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
