@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 21 jaar 2024'
-date: 2024-05-23
+date: 2024-05-24
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
@@ -18,6 +18,11 @@ tags:
 | Wednesday | Spar-Diepvries | -21.4°C | &check; | &check; | | WPater |
 | Wednesday | Spar-KW | 4.1°C | &check; | &check; | | WPater |
 | Wednesday | Spar-Vers | 1.2°C | &check; | &check; | | WPater |
+| Friday | Drents-eitje | 2.9°C | &check; | &check; | | WPater |
+| Friday | Huls | 1.2°C | &check; | &check; | | WPater |
+| Friday | Spar-Diepvries | -20.8°C | &check; | &check; | | WPater |
+| Friday | Spar-KW | 4.2°C | &check; | &check; | | WPater |
+| Friday | Spar-Vers | 1.5°C | &check; | &check; | | WPater |
 
 ## Opmerkingen
 
