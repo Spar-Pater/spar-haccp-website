@@ -1,6 +1,6 @@
 ---
 title: 'Aftekenlijst schoonmaken in week 22 jaar 2024'
-date: 2024-05-31
+date: 2024-06-01
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
@@ -20,6 +20,7 @@ De schoonmaak taken kun je vinden op:
 | Wednesday | BK | | | |
 | Thursday | MvG | | | |
 | Friday | MvG | | | |
+| Saturday | GR | | | |
 
 ## AGF
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -29,6 +30,7 @@ De schoonmaak taken kun je vinden op:
 | Wednesday | BK | | | |
 | Thursday | MvG | | | |
 | Friday | MvG | | | |
+| Saturday | GR | | | |
 
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -38,6 +40,7 @@ De schoonmaak taken kun je vinden op:
 | Wednesday | YP | | | |
 | Thursday | YP | | | |
 | Friday | YP | | | |
+| Saturday | YP | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -47,6 +50,7 @@ De schoonmaak taken kun je vinden op:
 | Wednesday | BK | | | |
 | Thursday | MvG | | | |
 | Friday | MvG | | | |
+| Saturday | GR | | | |
 
 ## Toilet
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
@@ -56,6 +60,7 @@ De schoonmaak taken kun je vinden op:
 | Wednesday | BK | | | |
 | Thursday | MvG | | | |
 | Friday | MvG | | | |
+| Saturday | GR | | | |
 
 ## Sappers
 | Dag | 10:00 | 13:00 | 16:00 | Einde dag | Bijzonderheden |
@@ -65,6 +70,7 @@ De schoonmaak taken kun je vinden op:
 | Wednesday | BK | | | |
 | Thursday | BK | | | |
 | Friday | BK | | | |
+| Saturday | BK | | | |
 
 ## Opmerkingen
 
