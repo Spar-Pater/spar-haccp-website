@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van sparretjes week 23 jaar 2024'
-date: 2024-06-03
+date: 2024-06-04
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
