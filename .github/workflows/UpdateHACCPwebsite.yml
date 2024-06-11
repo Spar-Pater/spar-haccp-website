@@ -27,8 +27,7 @@ jobs:
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
           bash ./.github/scripts/kern-temp.sh
-          git add .
-          git commit -am "Automatic add/change file" -m "kern temperatuur toegevoegd."
+          if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "kern temperatuur toegevoegd."; fi
       - name: Create ontvangst goederen
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
