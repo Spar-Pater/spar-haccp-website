@@ -22,8 +22,7 @@ jobs:
         if: github.event.schedule != '0 17 * * *'
         run: |
           bash ./.github/scripts/kalibratie-thermometer.sh
-          git add .
-          git commit -am "Automatic add/change file" -m "kalibratie thermometer toegevoegd."
+          if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "kalibratie thermometer toegevoegd."; fi
       - name: Create kern temperatuur
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
