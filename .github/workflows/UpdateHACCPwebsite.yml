@@ -24,12 +24,12 @@ jobs:
           bash ./.github/scripts/kalibratie-thermometer.sh
           git add .
           git commit -am "Automatic add/change file" -m "kalibratie thermometer toegevoegd."
-      - name: Create kern temperatuur
-        if: github.event.schedule != '0 16 5-12 2,8 1'
-        run: |
-          bash ./.github/scripts/kern-temp.sh
-          git add .
-          git commit -am "Automatic add/change file" -m "kern temperatuur toegevoegd."
+      # - name: Create kern temperatuur
+      #   if: github.event.schedule != '0 16 5-12 2,8 1'
+      #   run: |
+      #     bash ./.github/scripts/kern-temp.sh
+      #     git add .
+      #     git commit -am "Automatic add/change file" -m "kern temperatuur toegevoegd."
       - name: Create ontvangst goederen
         if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
