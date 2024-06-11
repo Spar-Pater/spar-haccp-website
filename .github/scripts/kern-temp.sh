@@ -112,7 +112,7 @@ temp_it () {
 ret () {
 	if [ -z ${brood[${set_date[4]#0}]} ]
 	then
-		exit
+		echo "There is no products more"
 	else
 		for testtimes in 1 2 3 4 5 6 7 8 9 10
 		do
@@ -123,7 +123,7 @@ ret () {
 
 if [ -z ${brood[${set_date[4]#0}]} ]
 then
-	exit
+	echo "There is no products more"
 else
 	path="../spar-haccp-website/content/haccp/${set_date[1]#0}/${set_yw[0]#0}/"
 	mkdir -p $path
