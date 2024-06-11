@@ -51,8 +51,7 @@ jobs:
       - name: Update main
         run: |
           echo $(date) >> README.md
-          git add .
-          git commit -am "Automatic update README file"
+          if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic update README file"
           git checkout main
           git merge nieuwe-documenten
           git branch -d nieuwe-documenten
