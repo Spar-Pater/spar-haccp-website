@@ -12,4 +12,4 @@ tags:
 
 
 ## BHV plan
-[![Handboek BHV](BHV.png)]Download hier het Handboek BHV plan(pdf/20240801_Handboek_BHV_SPAR.pdf)
+[![Handboek BHV](BHV.png)]Download hier het Handboek BHV plan](pdf/20240801_Handboek_BHV_SPAR.pdf)
