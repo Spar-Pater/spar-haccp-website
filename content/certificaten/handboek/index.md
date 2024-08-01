@@ -7,7 +7,6 @@ categories:
     - 'handboek'
 tags:
     - '2024'
-cover: 'HHV_Cover.png'
 ---
 
 
