@@ -20,32 +20,194 @@ jobs:
       - name: Create kalibratie thermometer
         #if: github.event.schedule != '0 17 * * *'
         run: |
-          bash ./.github/scripts/kalibratie-thermometer.sh 2
+          bash ./.github/scripts/kalibratie-thermometer.sh 3
+          bash ./.github/scripts/kalibratie-thermometer.sh 4
+          bash ./.github/scripts/kalibratie-thermometer.sh 5
+          bash ./.github/scripts/kalibratie-thermometer.sh 6
+          bash ./.github/scripts/kalibratie-thermometer.sh 7
+          bash ./.github/scripts/kalibratie-thermometer.sh 8
+          bash ./.github/scripts/kalibratie-thermometer.sh 9
+          bash ./.github/scripts/kalibratie-thermometer.sh 10
+          bash ./.github/scripts/kalibratie-thermometer.sh 11
+          bash ./.github/scripts/kalibratie-thermometer.sh 12
+          bash ./.github/scripts/kalibratie-thermometer.sh 13
+          bash ./.github/scripts/kalibratie-thermometer.sh 14
+          bash ./.github/scripts/kalibratie-thermometer.sh 15
+          bash ./.github/scripts/kalibratie-thermometer.sh 16
+          bash ./.github/scripts/kalibratie-thermometer.sh 17
+          bash ./.github/scripts/kalibratie-thermometer.sh 18
+          bash ./.github/scripts/kalibratie-thermometer.sh 19
+          bash ./.github/scripts/kalibratie-thermometer.sh 20
+          bash ./.github/scripts/kalibratie-thermometer.sh 21
+          bash ./.github/scripts/kalibratie-thermometer.sh 22
+          bash ./.github/scripts/kalibratie-thermometer.sh 23
+          bash ./.github/scripts/kalibratie-thermometer.sh 24
+          bash ./.github/scripts/kalibratie-thermometer.sh 25
+          bash ./.github/scripts/kalibratie-thermometer.sh 26
+          bash ./.github/scripts/kalibratie-thermometer.sh 27
+          bash ./.github/scripts/kalibratie-thermometer.sh 28
+          bash ./.github/scripts/kalibratie-thermometer.sh 29
+          bash ./.github/scripts/kalibratie-thermometer.sh 30
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "kalibratie thermometer toegevoegd."; fi
       - name: Create kern temperatuur
         #if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/kern-temp.sh 2
+          bash ./.github/scripts/kern-temp.sh 3
+          bash ./.github/scripts/kern-temp.sh 4
+          bash ./.github/scripts/kern-temp.sh 5
+          bash ./.github/scripts/kern-temp.sh 6
+          bash ./.github/scripts/kern-temp.sh 7
+          bash ./.github/scripts/kern-temp.sh 8
+          bash ./.github/scripts/kern-temp.sh 9
+          bash ./.github/scripts/kern-temp.sh 10
+          bash ./.github/scripts/kern-temp.sh 11
+          bash ./.github/scripts/kern-temp.sh 12
+          bash ./.github/scripts/kern-temp.sh 13
+          bash ./.github/scripts/kern-temp.sh 14
+          bash ./.github/scripts/kern-temp.sh 15
+          bash ./.github/scripts/kern-temp.sh 16
+          bash ./.github/scripts/kern-temp.sh 17
+          bash ./.github/scripts/kern-temp.sh 18
+          bash ./.github/scripts/kern-temp.sh 19
+          bash ./.github/scripts/kern-temp.sh 20
+          bash ./.github/scripts/kern-temp.sh 21
+          bash ./.github/scripts/kern-temp.sh 22
+          bash ./.github/scripts/kern-temp.sh 23
+          bash ./.github/scripts/kern-temp.sh 24
+          bash ./.github/scripts/kern-temp.sh 25
+          bash ./.github/scripts/kern-temp.sh 26
+          bash ./.github/scripts/kern-temp.sh 27
+          bash ./.github/scripts/kern-temp.sh 28
+          bash ./.github/scripts/kern-temp.sh 29
+          bash ./.github/scripts/kern-temp.sh 30
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "kern temperatuur toegevoegd."; fi
       - name: Create ontvangst goederen
         #if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/ontvangst-goederen.sh 2
+          bash ./.github/scripts/ontvangst-goederen.sh 3
+          bash ./.github/scripts/ontvangst-goederen.sh 4
+          bash ./.github/scripts/ontvangst-goederen.sh 5
+          bash ./.github/scripts/ontvangst-goederen.sh 6
+          bash ./.github/scripts/ontvangst-goederen.sh 7
+          bash ./.github/scripts/ontvangst-goederen.sh 8
+          bash ./.github/scripts/ontvangst-goederen.sh 9
+          bash ./.github/scripts/ontvangst-goederen.sh 10
+          bash ./.github/scripts/ontvangst-goederen.sh 11
+          bash ./.github/scripts/ontvangst-goederen.sh 12
+          bash ./.github/scripts/ontvangst-goederen.sh 13
+          bash ./.github/scripts/ontvangst-goederen.sh 14
+          bash ./.github/scripts/ontvangst-goederen.sh 15
+          bash ./.github/scripts/ontvangst-goederen.sh 16
+          bash ./.github/scripts/ontvangst-goederen.sh 17
+          bash ./.github/scripts/ontvangst-goederen.sh 18
+          bash ./.github/scripts/ontvangst-goederen.sh 19
+          bash ./.github/scripts/ontvangst-goederen.sh 20
+          bash ./.github/scripts/ontvangst-goederen.sh 21
+          bash ./.github/scripts/ontvangst-goederen.sh 22
+          bash ./.github/scripts/ontvangst-goederen.sh 23
+          bash ./.github/scripts/ontvangst-goederen.sh 24
+          bash ./.github/scripts/ontvangst-goederen.sh 25
+          bash ./.github/scripts/ontvangst-goederen.sh 26
+          bash ./.github/scripts/ontvangst-goederen.sh 27
+          bash ./.github/scripts/ontvangst-goederen.sh 28
+          bash ./.github/scripts/ontvangst-goederen.sh 29
+          bash ./.github/scripts/ontvangst-goederen.sh 30
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "ontvangst goederen toegevoegd."; fi
       - name: Create schoonmaaklijst
         #if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/schoonmaak.sh 2
+          bash ./.github/scripts/schoonmaak.sh 3
+          bash ./.github/scripts/schoonmaak.sh 4
+          bash ./.github/scripts/schoonmaak.sh 5
+          bash ./.github/scripts/schoonmaak.sh 6
+          bash ./.github/scripts/schoonmaak.sh 7
+          bash ./.github/scripts/schoonmaak.sh 8
+          bash ./.github/scripts/schoonmaak.sh 9
+          bash ./.github/scripts/schoonmaak.sh 10
+          bash ./.github/scripts/schoonmaak.sh 11
+          bash ./.github/scripts/schoonmaak.sh 12
+          bash ./.github/scripts/schoonmaak.sh 13
+          bash ./.github/scripts/schoonmaak.sh 14
+          bash ./.github/scripts/schoonmaak.sh 15
+          bash ./.github/scripts/schoonmaak.sh 16
+          bash ./.github/scripts/schoonmaak.sh 17
+          bash ./.github/scripts/schoonmaak.sh 18
+          bash ./.github/scripts/schoonmaak.sh 19
+          bash ./.github/scripts/schoonmaak.sh 20
+          bash ./.github/scripts/schoonmaak.sh 21
+          bash ./.github/scripts/schoonmaak.sh 22
+          bash ./.github/scripts/schoonmaak.sh 23
+          bash ./.github/scripts/schoonmaak.sh 24
+          bash ./.github/scripts/schoonmaak.sh 25
+          bash ./.github/scripts/schoonmaak.sh 26
+          bash ./.github/scripts/schoonmaak.sh 27
+          bash ./.github/scripts/schoonmaak.sh 28
+          bash ./.github/scripts/schoonmaak.sh 29
+          bash ./.github/scripts/schoonmaak.sh 30
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "schoonmaaklijst toegevoegd."; fi
       - name: Create temparatuurslijst
         #if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/temparatuurslijst.sh 2
+          bash ./.github/scripts/temparatuurslijst.sh 3
+          bash ./.github/scripts/temparatuurslijst.sh 4
+          bash ./.github/scripts/temparatuurslijst.sh 5
+          bash ./.github/scripts/temparatuurslijst.sh 6
+          bash ./.github/scripts/temparatuurslijst.sh 7
+          bash ./.github/scripts/temparatuurslijst.sh 8
+          bash ./.github/scripts/temparatuurslijst.sh 9
+          bash ./.github/scripts/temparatuurslijst.sh 10
+          bash ./.github/scripts/temparatuurslijst.sh 11
+          bash ./.github/scripts/temparatuurslijst.sh 12
+          bash ./.github/scripts/temparatuurslijst.sh 13
+          bash ./.github/scripts/temparatuurslijst.sh 14
+          bash ./.github/scripts/temparatuurslijst.sh 15
+          bash ./.github/scripts/temparatuurslijst.sh 16
+          bash ./.github/scripts/temparatuurslijst.sh 17
+          bash ./.github/scripts/temparatuurslijst.sh 18
+          bash ./.github/scripts/temparatuurslijst.sh 19
+          bash ./.github/scripts/temparatuurslijst.sh 20
+          bash ./.github/scripts/temparatuurslijst.sh 21
+          bash ./.github/scripts/temparatuurslijst.sh 22
+          bash ./.github/scripts/temparatuurslijst.sh 23
+          bash ./.github/scripts/temparatuurslijst.sh 24
+          bash ./.github/scripts/temparatuurslijst.sh 25
+          bash ./.github/scripts/temparatuurslijst.sh 26
+          bash ./.github/scripts/temparatuurslijst.sh 27
+          bash ./.github/scripts/temparatuurslijst.sh 28
+          bash ./.github/scripts/temparatuurslijst.sh 29
+          bash ./.github/scripts/temparatuurslijst.sh 30
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "temparatuurslijst toegevoegd."; fi
       - name: Create warmstepuntbepaling
         #if: github.event.schedule != '0 17 * * *'
         run: |
-          bash ./.github/scripts/warmstepuntbepaling.sh 2
+          bash ./.github/scripts/warmstepuntbepaling.sh 3
+          bash ./.github/scripts/warmstepuntbepaling.sh 4
+          bash ./.github/scripts/warmstepuntbepaling.sh 5
+          bash ./.github/scripts/warmstepuntbepaling.sh 6
+          bash ./.github/scripts/warmstepuntbepaling.sh 7
+          bash ./.github/scripts/warmstepuntbepaling.sh 8
+          bash ./.github/scripts/warmstepuntbepaling.sh 9
+          bash ./.github/scripts/warmstepuntbepaling.sh 10
+          bash ./.github/scripts/warmstepuntbepaling.sh 11
+          bash ./.github/scripts/warmstepuntbepaling.sh 12
+          bash ./.github/scripts/warmstepuntbepaling.sh 13
+          bash ./.github/scripts/warmstepuntbepaling.sh 14
+          bash ./.github/scripts/warmstepuntbepaling.sh 15
+          bash ./.github/scripts/warmstepuntbepaling.sh 16
+          bash ./.github/scripts/warmstepuntbepaling.sh 17
+          bash ./.github/scripts/warmstepuntbepaling.sh 18
+          bash ./.github/scripts/warmstepuntbepaling.sh 19
+          bash ./.github/scripts/warmstepuntbepaling.sh 20
+          bash ./.github/scripts/warmstepuntbepaling.sh 21
+          bash ./.github/scripts/warmstepuntbepaling.sh 22
+          bash ./.github/scripts/warmstepuntbepaling.sh 23
+          bash ./.github/scripts/warmstepuntbepaling.sh 24
+          bash ./.github/scripts/warmstepuntbepaling.sh 25
+          bash ./.github/scripts/warmstepuntbepaling.sh 26
+          bash ./.github/scripts/warmstepuntbepaling.sh 27
+          bash ./.github/scripts/warmstepuntbepaling.sh 28
+          bash ./.github/scripts/warmstepuntbepaling.sh 29
+          bash ./.github/scripts/warmstepuntbepaling.sh 30
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "warmstepuntbepaling toegevoegd."; fi
       - name: Update main
         run: |
