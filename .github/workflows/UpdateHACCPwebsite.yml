@@ -20,36 +20,36 @@ jobs:
       - name: Create kalibratie thermometer
         #if: github.event.schedule != '0 17 * * *'
         run: |
-          bash ./.github/scripts/kalibratie-thermometer.sh [1..52]
+          bash ./.github/scripts/kalibratie-thermometer.sh {1..52}
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "kalibratie thermometer toegevoegd."; fi
       - name: Create kern temperatuur
         #if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/kern-temp.sh [1..52]
+          bash ./.github/scripts/kern-temp.sh {1..52}
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "kern temperatuur toegevoegd."; fi
       - name: Create ontvangst goederen
         #if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/ontvangst-goederen.sh [1..52]
+          bash ./.github/scripts/ontvangst-goederen.sh {1..52}
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "ontvangst goederen toegevoegd."; fi
       - name: Create schoonmaaklijst
         #if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/schoonmaak.sh [1..52]
+          bash ./.github/scripts/schoonmaak.sh {1..52}
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "schoonmaaklijst toegevoegd."; fi
       - name: Create temparatuurslijst
         #if: github.event.schedule != '0 16 5-12 2,8 1'
         run: |
-          bash ./.github/scripts/temparatuurslijst.sh [1..52]
+          bash ./.github/scripts/temparatuurslijst.sh {1..52}
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "temparatuurslijst toegevoegd."; fi
       - name: Create warmstepuntbepaling
         #if: github.event.schedule != '0 17 * * *'
         run: |
-          bash ./.github/scripts/warmstepuntbepaling.sh [1..52]
+          bash ./.github/scripts/warmstepuntbepaling.sh {1..52}
           if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic add/change file" -m "warmstepuntbepaling toegevoegd."; fi
       - name: Update main
         run: |
-          sleep 600 
+          sleep 60 
           date > README.md
           # Note: the following account information will not work on GHES
           git config user.name "github-actions[bot]"
