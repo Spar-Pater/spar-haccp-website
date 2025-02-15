@@ -1,6 +1,6 @@
 ---
-title: 'Kalibratie thermometer op 16-06-2024'
-date: 2024-06-16
+title: 'Kalibratie thermometer op 23-06-2024'
+date: 2024-06-23
 author: Spar Pater
 description: 'Kalibratie logboek'
 categories:
@@ -9,7 +9,7 @@ tags:
     - '2024'
     - 'kalibratie'
 ---
-Controle uitgevoerd op 16-06-2024.
+Controle uitgevoerd op 23-06-2024.
 
 Thermometer 'Testo 10630977076'
 |---|---|

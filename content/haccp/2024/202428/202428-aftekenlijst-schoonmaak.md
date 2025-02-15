@@ -1,6 +1,6 @@
 ---
-title: 'Aftekenlijst schoonmaken in week 24 jaar 2024'
-date: 2024-06-16
+title: 'Aftekenlijst schoonmaken in week 28 jaar 2024'
+date: 2024-07-14
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
