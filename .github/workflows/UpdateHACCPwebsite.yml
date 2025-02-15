@@ -50,5 +50,5 @@ jobs:
       - name: Update main
         run: |
           echo $(date) >> README.md
-          if [git diff --exit-code -e 1]; then git add .; git commit -am "Automatic update README file"; fi
+          if [true]; then git add .; git commit -am "Automatic update README file"; fi
           git push origin main
