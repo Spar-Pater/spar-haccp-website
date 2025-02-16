@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van beemster-broodje week 7 jaar 2025'
-date: 2025-02-15
+date: 2025-02-16
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
