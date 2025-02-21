@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van frikandellenbroodje week 8 jaar 2025'
-date: 2025-02-20
+date: 2025-02-21
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
