@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van saucijzenbroodje week 9 jaar 2025'
-date: 2025-03-01
+date: 2025-03-02
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
