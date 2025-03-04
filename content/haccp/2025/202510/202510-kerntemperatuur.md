@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van curryworst week 10 jaar 2025'
-date: 2025-03-03
+date: 2025-03-04
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
