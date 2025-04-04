@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van koffiebroodje week 14 jaar 2025'
-date: 2025-04-03
+date: 2025-04-04
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
