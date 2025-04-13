@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van kaiserbroodje week 15 jaar 2025'
-date: 2025-04-12
+date: 2025-04-13
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
