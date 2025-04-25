@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van ciabatta week 17 jaar 2025'
-date: 2025-04-24
+date: 2025-04-25
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
