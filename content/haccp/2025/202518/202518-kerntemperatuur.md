@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van tijgerbol week 18 jaar 2025'
-date: 2025-04-30
+date: 2025-05-01
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
