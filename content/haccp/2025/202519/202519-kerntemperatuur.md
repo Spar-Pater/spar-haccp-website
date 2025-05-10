@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van baguelino week 19 jaar 2025'
-date: 2025-05-09
+date: 2025-05-10
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
