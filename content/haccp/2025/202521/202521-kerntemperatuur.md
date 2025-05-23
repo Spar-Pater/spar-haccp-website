@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van stokbrood week 21 jaar 2025'
-date: 2025-05-22
+date: 2025-05-23
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
