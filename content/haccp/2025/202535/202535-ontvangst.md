@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 35 jaar 2025'
-date: 2025-08-28
+date: 2025-08-29
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
@@ -18,6 +18,11 @@ tags:
 | Wednesday | Spar-Diepvries | -21.1°C | &check; | &check; | | WPater |
 | Wednesday | Spar-KW | 3.5°C | &check; | &check; | | WPater |
 | Wednesday | Spar-Vers | 1.6°C | &check; | &check; | | WPater |
+| Friday | Drents-eitje | 2.4°C | &check; | &check; | | WPater |
+| Friday | Huls | 2.1°C | &check; | &check; | | WPater |
+| Friday | Spar-Diepvries | -20.4°C | &check; | &check; | | WPater |
+| Friday | Spar-KW | 4.9°C | &check; | &check; | | WPater |
+| Friday | Spar-Vers | 2.0°C | &check; | &check; | | WPater |
 
 ## Opmerkingen
 
