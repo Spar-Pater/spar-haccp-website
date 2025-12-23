@@ -1,6 +1,6 @@
 ---
-title: 'Kalibratie thermometer op 22-12-2025'
-date: 2025-12-22
+title: 'Kalibratie thermometer op 23-12-2025'
+date: 2025-12-23
 author: Spar Pater
 description: 'Kalibratie logboek'
 categories:
@@ -9,7 +9,7 @@ tags:
     - '2025'
     - 'kalibratie'
 ---
-Controle uitgevoerd op 22-12-2025.
+Controle uitgevoerd op 23-12-2025.
 
 Thermometer 'Testo 10630977076'
 |---|---|
