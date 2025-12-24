@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 52 jaar 2025'
-date: 2025-12-23
+date: 2025-12-24
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
@@ -15,6 +15,9 @@ tags:
 | Monday | Spar-KW | 4.1°C | &check; | &check; | | DPater |
 | Monday | Spar-Vers | 1.4°C | &check; | &check; | | DPater |
 | Tuesday | Weidenaar | 0.9°C | &check; | &check; | | DPater |
+| Wednesday | Spar-Diepvries | -21.5°C | &check; | &check; | | WPater |
+| Wednesday | Spar-KW | 4.6°C | &check; | &check; | | WPater |
+| Wednesday | Spar-Vers | 0.4°C | &check; | &check; | | WPater |
 
 ## Opmerkingen
 
