@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 52 jaar 2025'
-date: 2025-12-26
+date: 2025-12-27
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
