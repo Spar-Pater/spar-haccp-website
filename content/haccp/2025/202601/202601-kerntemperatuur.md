@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van croissant week 1 jaar 2025'
-date: 2025-12-31
+date: 2026-01-01
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
