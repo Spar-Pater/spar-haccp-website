@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van roomboter-croissant week 3 jaar 2026'
-date: 2026-01-14
+date: 2026-01-15
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
