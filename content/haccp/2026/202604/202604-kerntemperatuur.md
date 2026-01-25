@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van ham-kaas-croissant week 4 jaar 2026'
-date: 2026-01-24
+date: 2026-01-25
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
