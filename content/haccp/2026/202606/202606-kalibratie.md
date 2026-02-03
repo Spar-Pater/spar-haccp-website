@@ -1,6 +1,6 @@
 ---
-title: 'Kalibratie thermometer op 02-02-2026'
-date: 2026-02-02
+title: 'Kalibratie thermometer op 03-02-2026'
+date: 2026-02-03
 author: Spar Pater
 description: 'Kalibratie logboek'
 categories:
@@ -9,7 +9,7 @@ tags:
     - '2026'
     - 'kalibratie'
 ---
-Controle uitgevoerd op 02-02-2026.
+Controle uitgevoerd op 03-02-2026.
 
 Thermometer 'Testo 10630977076'
 |---|---|
