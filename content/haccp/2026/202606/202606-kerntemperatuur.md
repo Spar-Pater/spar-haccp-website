@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van choco-brood week 6 jaar 2026'
-date: 2026-02-04
+date: 2026-02-05
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
