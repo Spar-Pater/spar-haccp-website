@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 07 jaar 2026'
-date: 2026-02-12
+date: 2026-02-13
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
@@ -18,6 +18,11 @@ tags:
 | Wednesday | Spar-Diepvries | -21.0°C | &check; | &check; | | WPater |
 | Wednesday | Spar-KW | 4.7°C | &check; | &check; | | WPater |
 | Wednesday | Spar-Vers | 1.0°C | &check; | &check; | | WPater |
+| Friday | Drents-eitje | 2.8°C | &check; | &check; | | WPater |
+| Friday | Huls | 2.4°C | &check; | &check; | | WPater |
+| Friday | Spar-Diepvries | -21.0°C | &check; | &check; | | WPater |
+| Friday | Spar-KW | 4.8°C | &check; | &check; | | WPater |
+| Friday | Spar-Vers | 1.8°C | &check; | &check; | | WPater |
 
 ## Opmerkingen
 
