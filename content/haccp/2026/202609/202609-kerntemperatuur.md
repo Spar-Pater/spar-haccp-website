@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van saucijzenbroodje week 9 jaar 2026'
-date: 2026-02-24
+date: 2026-02-25
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
