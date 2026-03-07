@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van curryworst week 10 jaar 2026'
-date: 2026-03-06
+date: 2026-03-07
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
