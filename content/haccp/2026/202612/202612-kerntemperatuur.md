@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van appeltaart week 12 jaar 2026'
-date: 2026-03-20
+date: 2026-03-21
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
