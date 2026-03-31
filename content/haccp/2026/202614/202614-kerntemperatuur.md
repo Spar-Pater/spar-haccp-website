@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van koffiebroodje week 14 jaar 2026'
-date: 2026-03-30
+date: 2026-03-31
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
