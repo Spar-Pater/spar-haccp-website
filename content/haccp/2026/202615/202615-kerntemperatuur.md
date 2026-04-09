@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van kaiserbroodje week 15 jaar 2026'
-date: 2026-04-08
+date: 2026-04-09
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
