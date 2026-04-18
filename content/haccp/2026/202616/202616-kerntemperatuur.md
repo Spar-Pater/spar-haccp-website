@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van pistolet week 16 jaar 2026'
-date: 2026-04-17
+date: 2026-04-18
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
