@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van tijgerbol week 18 jaar 2026'
-date: 2026-04-29
+date: 2026-04-30
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
