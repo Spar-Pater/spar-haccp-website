@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van baguelino week 19 jaar 2026'
-date: 2026-05-05
+date: 2026-05-06
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
