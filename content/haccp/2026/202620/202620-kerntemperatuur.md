@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van maisbroodje week 20 jaar 2026'
-date: 2026-05-13
+date: 2026-05-14
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
