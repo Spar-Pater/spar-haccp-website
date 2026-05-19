@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van stokbrood week 21 jaar 2026'
-date: 2026-05-18
+date: 2026-05-19
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
