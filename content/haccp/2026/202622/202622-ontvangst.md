@@ -1,0 +1,20 @@
+---
+title: 'Ontvangst goederen 22 jaar 2026'
+date: 2026-05-25
+author: Spar Pater
+description: 'Ontvangst logboek'
+categories:
+    - 'HACCP'
+tags:
+    - '2026'
+    - 'Ontvangst'
+---
+| Dag | Leverancier | Temp | tht OK | verpakking OK | Actie bij afwijking | Controle door |
+|:---|:---|:---|:---|:---|:---|:---|
+| Monday | Spar-Diepvries | -21.1°C | &check; | &check; | | DPater |
+| Monday | Spar-KW | 4.0°C | &check; | &check; | | DPater |
+| Monday | Spar-Vers | 0.7°C | &check; | &check; | | DPater |
+
+## Opmerkingen
+
+
