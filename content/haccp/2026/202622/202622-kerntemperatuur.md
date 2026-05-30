@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van boerenbol week 22 jaar 2026'
-date: 2026-05-29
+date: 2026-05-30
 author: Spar Pater
 description: 'Kerntemperatuur logboek'
 categories:
