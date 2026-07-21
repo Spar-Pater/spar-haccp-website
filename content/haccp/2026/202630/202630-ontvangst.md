@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 30 jaar 2026'
-date: 2026-07-20
+date: 2026-07-21
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
@@ -14,6 +14,7 @@ tags:
 | Monday | Spar-Diepvries | -21.0°C | &check; | &check; | | DPater |
 | Monday | Spar-KW | 4.6°C | &check; | &check; | | DPater |
 | Monday | Spar-Vers | 0.4°C | &check; | &check; | | DPater |
+| Tuesday | Weidenaar | 0.9°C | &check; | &check; | | DPater |
 
 ## Opmerkingen
 
