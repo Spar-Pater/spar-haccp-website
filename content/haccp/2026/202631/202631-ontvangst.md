@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 31 jaar 2026'
-date: 2026-07-31
+date: 2026-08-01
 author: Spar Pater
 description: 'Ontvangst logboek'
 categories:
